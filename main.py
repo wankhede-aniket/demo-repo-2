@@ -5,4 +5,6 @@ print("Hello Mr. Wankhede")
 for i in range(20):
     print(i)
 
-# This is where you get merge conflicts
+# take input from user
+data = str(input("Enter a name that you want to print: "))
+print(data)
